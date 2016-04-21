@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[10KHomes]]></title>
         <description><![CDATA[10KHomes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/10khomes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:54:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 01:04:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/10khomes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why We're Here: Twin Cities]]></title>
+            <description><![CDATA[<article><h1>Why We're Here: Twin Cities</h1><p>Why, with all the possibilities that exist in the world, do we live here in the Twin Cities? In the spring and summer of 2010, we took our camera to the stre...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d37a4fc8c95e6785982921d71f114a172ee4710.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=njKkzvV6iQA</link>
+            <guid isPermaLink="false">60eb7fa7-a4aa-4802-941c-268316f8f459</guid>
+            <pubDate>Thu, 21 Apr 2016 01:03:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Why We're Here: Twin Cities</p>]]></description>
-            <link>undefinedwhy-were-here-twin-cities/index.html</link>
+            <link>https://thegrid.ai/10khomes/why-were-here-twin-cities/index.html</link>
             <guid isPermaLink="false">3861ab15-2a4b-4e01-8730-c262075ed11e</guid>
             <pubDate>Thu, 21 Apr 2016 00:54:18 GMT</pubDate>
         </item>
