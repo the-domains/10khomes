@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We're Social Animals!"
-datePublished: '2016-04-21T01:05:11.883Z'
-dateModified: '2016-04-21T00:31:42.778Z'
+datePublished: '2016-04-21T01:20:50.566Z'
+dateModified: '2016-04-21T01:07:25.077Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-were-social-animals.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-were-social-animals.md
-published: true
 url: were-social-animals/index.html
 _type: Article
 
